@@ -1,0 +1,12 @@
+.aboutcls{
+    color: red;
+}
+
+.link2{
+    color: rgb(0, 0, 0);
+    
+}
+
+.link2:hover{
+    color: blue;
+}
